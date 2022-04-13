@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-![Print](https://devgdp.github.io/Loki/blob/main/assets/img/print.png 'Print')
+![Print](https://github.com/devgdp/Loki/blob/main/assets/img/print.png 'Print')
 
 ### Tecnologias utilizadas
 
