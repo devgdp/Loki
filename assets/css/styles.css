@@ -164,3 +164,9 @@ a {
 .content__btn .trailer {
   background-color: var(--dark);
 }
+
+@media screen and (max-width: 768px) {
+  :root {
+    font-size: 14px;
+  }
+}
